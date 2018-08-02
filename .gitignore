@@ -2,8 +2,8 @@ target/*
 .settings/*
 .classpath
 .project
-#.idea
-#*.iml
+.idea
+*.iml
 /target
 .sts4-cache/
 .vscode/*
